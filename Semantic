@@ -1,0 +1,21 @@
+# HTML Seitenstruktur
+* body
+** Enthält den gesamten Seiteninhalt 
+* main
+** Hauptinhalt
+* header
+** einleitende Inhalte
+* footer
+** informative Inhalte 
+* nav
+** Seitennavigation; umschließt Navigationsleisten und Menüs
+* article
+** einzelne in sich geschlossene Inhaltsbereiche
+* section
+** thematische Gruppierung von Inhalten
+* aside
+** ergänzende Hinweise, „Randbemerkungen“
+* address
+** Kontaktinformationen
+* h1 ... h6
+** Überschriften in 6 „Tiefen“ 
